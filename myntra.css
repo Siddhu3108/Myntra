@@ -10,7 +10,7 @@
     margin-top: 0;
     height: 35px;
     width: auto;
-    padding-right: 40px;
+    padding-right: 53px;
 }
 input{
     width: 500px;
@@ -53,8 +53,8 @@ input{
     justify-content: space-around;
     align-items: center;
     height: 80px;
-    padding-left:23px;
-    padding-right: 23px;
+    padding-left:15px;
+    padding-right: 15px;
 }
 .men:hover{
     padding-top: 4px;
@@ -99,4 +99,8 @@ input{
 #c1{
     height: 97px;
     width: 1300px;
+}
+.pro{
+    display: block;
+    padding-left: 10px;
 }
